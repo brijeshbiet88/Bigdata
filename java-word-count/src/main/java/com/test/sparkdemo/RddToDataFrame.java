@@ -1,4 +1,4 @@
-package com.journaldev.sparkdemo;
+package com.test.sparkdemo;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;
@@ -8,7 +8,7 @@ import scala.Tuple2;
 
 import java.util.Arrays;
 
-public class WordCounter {
+public class RddToDataFrame {
 	
     private static void wordCount(String fileName) {
     	

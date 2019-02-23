@@ -1,4 +1,4 @@
-package com.journaldev.sparkdemo;
+package com.test.sparkdemo;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;
