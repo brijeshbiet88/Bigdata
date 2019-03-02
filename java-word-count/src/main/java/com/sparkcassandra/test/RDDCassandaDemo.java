@@ -49,7 +49,7 @@ public class RDDCassandaDemo extends PersistUtil{
         Map<String , String> persistOptions = new HashMap<>();
         configurePersistOptions(sqlContext , "persons" , "employee" , persistOptions);
         
-        persist(sqlContext , epmDS , persistOptions);
+        //persist(sqlContext , epmDS , persistOptions);
         	
 	}
 

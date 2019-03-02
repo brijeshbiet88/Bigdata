@@ -10,7 +10,7 @@ import org.apache.spark.storage.StorageLevel;
 
 public class PersistUtil {
 	
-	private static final String SPARK_CASSANDRA_FORMAT = "org.apache.spark.sql.cassandra";
+	protected static final String SPARK_CASSANDRA_FORMAT = "org.apache.spark.sql.cassandra";
 
 	protected static void configurePersistOptions(SQLContext sqlContext, String keyspace, String table, Map<String, String> persistOptions) {
 		persistOptions.put("KEYSPACE", keyspace);
