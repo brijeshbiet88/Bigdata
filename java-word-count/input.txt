@@ -1,0 +1,57 @@
+HI EVERYONE THIS IS A DEMO FILE TO TEST THE SPARK DEMO PROGRAM .
+I AM WWRITING MY FIRST SPARK PROGRAM IN LINUX BOX.
+I AM ENJOYING IT A LOT.
+THANK YOU.
+I AM MANIPULATING THE EXISTING WORD COUNT PROGRAM TO UNDERSTAND
+EACH AND EVERY API IN DETAIL
+LIKE RDD PAIREDRDD TUPLE MAP AND FLATMAP
+HAPPY LEARNING AND ALL THE BEST
+TAIL RCURSION QUESTION IS A GOOD QUESTION
+AGE GAP GENERATION GAP HOW IS THAT
+FOR THAT WE NEED TO DO A SESSION
+IMMORTAL NEGATIVE POSITIVE PHOTOSHOP
+The tail recursive functions considered
+better than non tail recursive functions
+as tail-recursion can be optimized by compiler. 
+The idea used by compilers to optimize 
+tail-recursive functions is simple, 
+since the recursive call is the last statement, 
+there is nothing left to do in the current function,
+ so saving the current 
+function’s stack frame is of no use
+Position: Senior software engineer – Office 365 team
+
+I initially applied for senior software engineer position in Office 365 Team in Dublin, Ireland in Aug 2018. After a month I received a phone call from the recruiter for a quick chat about my current situation. He asked me the following questions:
+1) Why have you applied for this position?
+2) What you do in your current role?
+3) Where do you see yourself in the next 5-8 years time?
+
+The recruiter was satisfied and he scheduled a technical interview with a software engineer over Skype.
+
+Skype Interview: Technical
+It was divided in 2 parts, first he asked me some competency
+based questions and some projects from my CV. He also asked why I
+want to work for Microsoft? What is the most challenging project I 
+have worked on and why? – this was only 15 mints then he gave me a coding interview question give below:
+Given an array: [5, 10, 4, 0, 2, 4, 6, 31, 6, 6, 8, 5, 1, 2, 3] 
+find the number that is sum of its left and right subarrays. 
+In this example its 31 because numbers on its left adds up to 31 so are those on its right.
+Write a function that will return that number if exists. Return -1 if doesn’t.
+Tips: He was looking for time and space complexity and 
+the approach towards the solution. You have to ask questions 
+like is the input array can be null or empty? Should we throw
+ exception in this case? How big is the input array? Does it 
+ contain negative numbers? Or decimal numbers? Things like that. 
+ This shows that before cracking on writing the code, you think
+  and plan how you gonna approach it. 
+Then think about how you gonna solve it and what time and space
+ complexity will be. Once this discussion is completed ask if 
+ its okay now to start writing the code.
+So I stated writing code and I also kept explaining what I was
+ doing just to let him know about my thoughts. Once completed writing the
+ function, I walked through the example input array which seemed to be working. Then he changed an input array with zeros and ones and negative numbers to which my code wasn’t able to find the right number.
+I thought I failed at this stage. Next, he asked if I have any questions so I asked him about their software development process, build and release process and some other technical / project life cycle type questions. Its very imported to ask question when you are given an opportunity.
+
+After a few weeks I received call from the recruiter that they would like me to come for face to face interview at Microsoft Dublin campus.
+
+On site interview with Office 365 team: Technical
